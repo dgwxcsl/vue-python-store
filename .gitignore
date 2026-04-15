@@ -12,3 +12,5 @@ frontend/.vite/
 
 # IDE
 .vscode/
+
+.qwen/
